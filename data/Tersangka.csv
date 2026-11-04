@@ -1,0 +1,4 @@
+"ID","Nama","Peran","Informasi awal","Prior P(H)","Akses","Alibi","R","G","B"
+"S1","Arman","Penjaga museum","Memiliki akses ke ruang pameran.",0.35,"Ruang pameran, pos jaga","Mengaku berada di pos jaga saat kejadian.",230,120,90
+"S2","Bima","Teknisi","Memiliki akses ke sistem kamera.",0.30,"Ruang kontrol CCTV, gudang","Mengaku memperbaiki server di ruang kontrol.",90,170,240
+"S3","Clara","Kurator","Mengetahui lokasi artefak dan prosedur penyimpanan.",0.35,"Ruang kurator, ruang pameran","Mengaku sedang rapat telepon dengan kolektor.",190,120,230

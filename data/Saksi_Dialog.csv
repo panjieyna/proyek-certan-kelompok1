@@ -1,0 +1,4 @@
+"Nama","ID tersangka","Lokasi","X","Y","Dialog 1 (bukti)","Dialog 2"
+"Arman","S1","Pos Jaga",190,470,"Saya di pos jaga sepanjang malam. Tapi... sekitar 19:50 saya sempat lihat orang berseragam teknisi di lorong, bawa tas perkakas besar.","Hanya itu yang saya tahu, Detektif. Saya tidak ingin dituduh sembarangan."
+"Bima","S2","Ruang Kontrol",100,150,"Saya sedang memperbaiki server, Detektif. Kamera memang mati, tapi itu gangguan teknis biasa!","Saya teknisi, wajar kalau saya yang paling tahu sistem kamera. Jangan buru-buru menyimpulkan."
+"Clara","S3","Ruang Kurator",670,150,"Saya rapat telepon dengan kolektor saat artefak hilang. Silakan cek log telepon di meja saya.","Saya tahu prosedur penyimpanan, tapi itu justru tugas saya sebagai kurator."

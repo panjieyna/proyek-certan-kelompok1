@@ -1,0 +1,7 @@
+"ID","Skenario","Hasil yang diharapkan","Catatan"
+"T1","Belum ada bukti","Sistem menampilkan probabilitas awal.","Prior: 0.35 / 0.30 / 0.35"
+"T2","Bukti baru ditemukan","Probabilitas diperbarui sesuai parameter bukti.","Setelah E1 Bima naik"
+"T3","Bukti belum tersedia","Sistem tidak menganggapnya sebagai bukti negatif.","Bukti belum ditemukan diabaikan"
+"T4","Dua tersangka bernilai sama","Sistem menampilkan peringkat seri.","Prior sama -> peringkat sama"
+"T5","Semua hipotesis bernilai nol","Sistem memakai mekanisme cadangan (kembali ke prior).","Fallback prior"
+"T6","Kasus diselesaikan pemain","Game menampilkan kesimpulan dan skor.","Layar hasil"

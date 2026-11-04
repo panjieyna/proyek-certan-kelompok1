@@ -1,0 +1,8 @@
+"Nama","X","Y","Lebar","Tinggi","R","G","B","Deskripsi"
+"Ruang Kontrol",0,0,260,250,44,56,78,"Ruang CCTV dan server museum."
+"Ruang Pameran",260,0,280,250,70,52,58,"Tempat artefak dipajang. TKP utama."
+"Ruang Kurator",540,0,260,250,54,48,74,"Kantor kurator dan arsip penyimpanan."
+"Lorong",0,250,800,100,52,54,62,"Lorong penghubung semua ruangan."
+"Pos Jaga",0,350,260,250,58,66,52,"Pos penjaga museum."
+"Gudang",260,350,280,250,66,58,46,"Gudang perkakas dan perlengkapan."
+"Lobi",540,350,260,250,74,64,52,"Lobi depan dan meja tamu."
